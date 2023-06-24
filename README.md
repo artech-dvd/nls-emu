@@ -1,9 +1,7 @@
 # NLS-Emu
-An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously demonstrated in the 1968 "Mother of All Demos".
-# FAQ
-### How will you emulate the NLS, a unique piece of software from over half a century ago?
-Some (if not all) of the Nov. 1969 source code for the original NLS has actually been scanned [here](https://bitsavers.org/pdf/sri/arc/sds-940/NLS_Sources_Part_1_Nov69.pdf).  
+An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously demonstrated in the 1968 "Mother of All Demos". This project will be using the November 1969 [NLS source code](https://bitsavers.org/pdf/sri/arc/sds-940/NLS_Sources_Part_1_Nov69.pdf), an [SDS 940 emulator](https://github.com/simh/simh), and the [TREE-META compiler-compiler system](https://en.wikipedia.org/wiki/TREE-META) (source/assembly code [here](https://github.com/jimwhite/treemeta)).
 
-Additionally, the (most likely?) full source code of NLS v2.0 has also been scanned [here](https://www.computerhistory.org/collections/catalog/102706982), although I will first attempt to emulate the version closest resembling that seen in Engelbart's MOAD.  
+# Help Needed!
+This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
 
-The original NLS ran on a SDS 940, [for which emulators exist](https://github.com/simh/simh). The source code seems to be written with [TREE-META](https://en.wikipedia.org/wiki/TREE-META).
+So, we need any help we can get! If you have any knowledge of the SDS 940, TREE-MESA, or even the NLS, please let me know at retroperson3782@gmail.com!
