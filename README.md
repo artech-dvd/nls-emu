@@ -4,4 +4,4 @@ An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously 
 # Help Needed!
 This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
 
-So, we need any help we can get! If you have any knowledge of the SDS 940, TREE-MESA, or even the NLS, please let me know at retroperson3782@gmail.com!
+So, we need any help we can get! If you have any knowledge of OCR, the SDS 940, TREE-MESA, or even the NLS, please let me know at retroperson3782@gmail.com!
