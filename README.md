@@ -8,6 +8,8 @@ Some code/documents in the supposed Nov. 1969 NLS source code actually date to D
 # TLTD (Things Left To Do):
 
 Absolutely everything.
+
+In chronological order:
 - Clean up and reformat the PDF scans of the source code.
 - Check whether the source code contains all necessary code to even begin restoring the system. If not, attempt to restore missing code via [later source code](https://www.computerhistory.org/collections/catalog/102706982).
 - Check whether the [TREE-META assembly code](https://github.com/jimwhite/treemeta/blob/master/rulifson-1968/tree-meta.a) is functional/emulatable.
@@ -16,7 +18,7 @@ Absolutely everything.
 - Get MOL-940/a recreation of it running.
 - See which parts of the NLS source code are duplicates/later revisions and should be discarded. See [Notes](https://github.com/artech-dvd/nls-emu/edit/main/README.md#notes).
 - Figure out a way of emulating the mouse and display that the NLS used.
-
+- Get the NLS system up and running.
 
 # Help Needed!
 This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
