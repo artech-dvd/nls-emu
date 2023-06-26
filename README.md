@@ -15,7 +15,7 @@ In chronological order:
 - Check whether the [TREE-META assembly code](https://github.com/jimwhite/treemeta/blob/master/rulifson-1968/tree-meta.a) is functional/emulatable.
 - Get the TREE-META compiler running on the SDS 940 emulator.
 - Locate more information on M(achine)O(riented)L(anguage)-940. See pgs. 105-6 in 1969 NLS source code PDF; also see [here](http://bitsavers.trailing-edge.com/pdf/sri/arc/rulifson/MOL940_Preliminary_Specification_For_An_Algol-Like_Machine_Oriented_Language_For_The_SDS_940_Mar68.pdf).
-- Get MOL-940/a recreation of it running.
+- Get MOL-940/a recreation of it running on the SDS 940 emulator.
 - See which parts of the NLS source code are duplicates/later revisions and should be discarded. See [Notes](https://github.com/artech-dvd/nls-emu/edit/main/README.md#notes).
 - Figure out a way of emulating the mouse and display that the NLS used.
 - Get the NLS system up and running.
