@@ -5,11 +5,6 @@ An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously 
 
 Some code/documents in the supposed Nov. 1969 NLS source code actually date to Dec. 1969 (see pgs. 84 and 105 of the PDF). Additionally, there are instances of duplicates/revised code being included along with the older code (see pgs. 105 and 107 of the PDF).
 
-# Help Needed!
-This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
-
-So, we need any help we can get! If you have any knowledge of OCR, the SDS 940, TREE-MESA, or even the NLS, please let me know at retroperson3782@gmail.com!
-
 # TLTD (Things Left To Do):
 
 Absolutely everything.
@@ -21,3 +16,9 @@ Absolutely everything.
 - Get MOL-940/a recreation of it running.
 - See which parts of the NLS source code are duplicates/later revisions and should be discarded. See [Notes](https://github.com/artech-dvd/nls-emu/edit/main/README.md#notes).
 - Figure out a way of emulating the mouse and display that the NLS used.
+
+
+# Help Needed!
+This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
+
+So, we need any help we can get! If you have any knowledge of OCR, the SDS 940, TREE-MESA, or even the NLS, please let me know at retroperson3782@gmail.com!
