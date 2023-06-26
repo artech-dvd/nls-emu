@@ -18,7 +18,7 @@ In chronological order:
 - Get MOL-940/a recreation of it running on the SDS 940 emulator.
 - See which parts of the NLS source code are duplicates/later revisions and should be discarded. See [Notes](https://github.com/artech-dvd/nls-emu/edit/main/README.md#notes).
 - Figure out a way of emulating the mouse and display that the NLS used.
-- Get the NLS system up and running.
+- Get the NLS system up and running on the SDS 940 emulator.
 
 # Help Needed!
 This project's goal will most likely be very difficult, if not impossible, to fully achieve. However, armed with the NLS source code, SDS 940 emulator, and  TREE-META, it might be possible to restore a(n at least partially) working, albeit most likely very limited, version of the oN-Line System.
