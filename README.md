@@ -1,5 +1,5 @@
 # nls-emu
-An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously demonstrated in the 1968 "Mother of All Demos". This project will be using the Dec. (?) 1969 [NLS source code](https://bitsavers.org/pdf/sri/arc/sds-940/NLS_Sources_Part_1_Nov69.pdf), an [SDS 940 emulator](https://github.com/simh/simh), and the [TREE-META compiler-compiler system](https://en.wikipedia.org/wiki/TREE-META) (source/assembly code [here](https://github.com/jimwhite/treemeta)).
+An attempt at emulating Douglas Engelbart's oN-Line System, or NLS, as famously demonstrated in the 1968 "Mother of All Demos". This project will be using the Dec. (?) 1969 [NLS source code](https://bitsavers.org/pdf/sri/arc/sds-940/NLS_Sources_Part_1_Nov69.pdf), the [Jan. 1972 source code](https://www.computerhistory.org/collections/catalog/102706982), an [SDS 940 emulator](https://github.com/simh/simh), and the [TREE-META compiler-compiler system](https://en.wikipedia.org/wiki/TREE-META) (source/assembly code [here](https://github.com/jimwhite/treemeta)).
 
 # Notes
 
